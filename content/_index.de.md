@@ -2,7 +2,7 @@
 title: "launchpad"
 ---
 
-# Welcome
+# Willkommen
 
 Hi,  
 this is fairydust.space, an instance on the federated [Matrix](https://matrix.org/) Network for end-to-end-encrypted communication.  
