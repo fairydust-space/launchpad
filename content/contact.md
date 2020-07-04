@@ -1,5 +1,5 @@
 ---
-title: "How to contact the Fairydust.space cabin crew"
+title: "Reach out to us!"
 date: 2020-07-04T18:53:49Z
 draft: false
 ---
@@ -16,7 +16,7 @@ We post status updates, like maintenance:
 We encourage you to enable End-To-End-Encryption for all chats!  
 
 ### Here's how:
-- In Matrix find the section “Direct Chats” in the left si
+- In Matrix find the section “Direct Chats” in the left de
 - Click the + button to start chat
 - In the username field enter at least one of our Matrix IDs listed below
 - Click the Go button to create the new chat
