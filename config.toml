@@ -14,24 +14,42 @@ defaultContentLanguageInSubdir = true
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
+  # Change default color scheme with a variant one. Can be "red", "blue", "green", "fairydust".
+  themeVariant = "fairydust"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+  home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
-[Languages.en]
-title = "fairydust.space - 🚀"
-theme = "hugo-theme-learn"
-weight = 1
-languageName = "English"
+  [Languages.en]
+    title = "fairydust.space - 🚀"
+    theme = "hugo-theme-learn"
+    weight = 1
+    languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "riot - chat.fairydust.space"
-url = "https://chat.fairydust.space"
-weight = 10
+  name = "chat.fairydust.space"
+  url = "https://chat.fairydust.space"
+  weight = 10
 
 [[Languages.en.menu.shortcuts]]
-name = "Contact us"
-url = "/contact"
-weight = 20
+  name = "Contact us"
+  url = "/contact"
+  weight = 20
+
+[Languages.de]
+  title = "fairydust.space - 🚀"
+  theme = "hugo-theme-learn"
+  weight = 1
+  languageName = "Deutsch"
+
+[[Languages.de.menu.shortcuts]]
+  name = "chat.fairydust.space"
+  url = "https://chat.fairydust.space"
+  weight = 10
+
+[[Languages.de.menu.shortcuts]]
+  name = "Kontaktiere uns"
+  url = "/contact"
+  weight = 20
 
