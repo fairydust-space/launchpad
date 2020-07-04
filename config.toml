@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "fairydust.space - 🚀"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = true
+
+[params]
+#  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "our awesome launchpad"
+  author = "Cabin Crew"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "fairydust.space - 🚀"
+theme = "hugo-theme-learn"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "riot - chat.fairydust.space"
+url = "https://chat.fairydust.space"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "contact"
+url = "/contact"
+weight = 20
+
