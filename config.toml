@@ -26,6 +26,7 @@ defaultContentLanguageInSubdir = true
     theme = "hugo-theme-learn"
     weight = 1
     languageName = "English"
+    contentDir = "content/en"
 
 [[Languages.en.menu.shortcuts]]
   name = "chat.fairydust.space"
@@ -42,6 +43,7 @@ defaultContentLanguageInSubdir = true
   theme = "hugo-theme-learn"
   weight = 1
   languageName = "Deutsch"
+  contentDir = "content/de"
 
 [[Languages.de.menu.shortcuts]]
   name = "chat.fairydust.space"
