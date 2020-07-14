@@ -1,6 +1,7 @@
 :root{
     /* Colors taken from the logo */
-    --FAIRYDUST-BODY: #0B7D38; /* dark green */
+    --FAIRYDUST-BODY: #0B7D38; /* green */
+    --FAIRYDUST-BODY-fin: #007D39; /* slightyl darker green */
     --FAIRYDUST-BODY-shadow: #02421F; /* very dark green */
     --FAIRYDUST-BODY-WINDOW-frame-outer: #EDE219; /* yellow */
     --FAIRYDUST-BODY-WINDOW-frame-inner: #F8AF56; /* peachy */
@@ -12,20 +13,20 @@
     --FAIRYDUST-FLAME-blue: #064DFE; /* blue */
     --FAIRYDUST-FLAME-purple: #740D85; /* purple */
     --FAIRYDUST-SPACE: #0A0C22; /* space black */
-    --FAIRYDUST-STAR: #F3DEC8; /* off white */
+    --FAIRYDUST-STAR: #F3DEC8; /* off-white peachy star */
 
-    --FAIRYDUST-BRIGHT: #ccc; /* white-ish highlight */
+    --FAIRYDUST-BRIGHT: #ccc; /* off-white */
 
     
     --MAIN-TEXT-color: var(--FAIRYDUST-SPACE); /* was #323232;*/ /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
     --MAIN-LINK-color:var(--FAIRYDUST-BODY); /* Color of links */
     --MAIN-LINK-HOVER-color: var(--FAIRYDUST-FLAME-blue); /* Color of hovered links */
-    --MAIN-ANCHOR-color: #var(--FAIRYDUST-FLAME-blue); /* color of anchors on titles */
+    --MAIN-ANCHOR-color: var(--FAIRYDUST-FLAME-blue); /* color of anchors on titles */
     --MAIN-LINK-ACTIVE-color: var(--FAIRYDUST-BODY-shadow); /* Color of clicked links */
 
     --MENU-HEADER-BG-color:var(--FAIRYDUST-SPACE); /* Background color of menu header */
-    --MENU-HEADER-BORDER-color:var(--FAIRYDUST-FLAME-green); /*Color of menu header border */ 
+    --MENU-HEADER-BORDER-color:var(--FAIRYDUST-BODY); /*Color of menu header border */ 
 
     --MENU-SEARCH-BG-color:var(--FAIRYDUST-BRIGHT); /* Search field background color (by default borders + icons) */
     --MENU-SEARCH-BOX-color: var(--FAIRYDUST-FLAME-green); /* Override search field border color */
@@ -39,7 +40,7 @@
     --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #ccc; /* Color of background for the active category (only) */
 
     --MENU-VISITED-color: var(--FAIRYDUST-FLAME-purple); /* Color of 'page visited' icons in menu */
-    --MENU-SECTION-HR-color: var( --FAIRYDUST-FLAME-green); /* Color of <hr> separator in menu */  
+    --MENU-SECTION-HR-color: var(--FAIRYDUST-FLAME-green); /* Color of <hr> separator in menu */  
 }
 
 body {
@@ -124,5 +125,19 @@ a:active {
 }
 
 #sidebar hr {
-    border-color: var(--MENU-SECTION-HR-color);
+    border: 0;
+    height: 0.3em;
+    background: var(--MENU-SECTION-HR-color);
+
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, var(--FAIRYDUST-FLAME-purple)), color-stop(17%, var(--FAIRYDUST-FLAME-purple)), color-stop(17%, var(--FAIRYDUST-FLAME-blue)), color-stop(33%, var(--FAIRYDUST-FLAME-blue)), color-stop(33%, var(--FAIRYDUST-FLAME-green)), color-stop(50%, var(--FAIRYDUST-FLAME-green)), color-stop(50%, var(--FAIRYDUST-FLAME-yellow)), color-stop(67%, var(--FAIRYDUST-FLAME-yellow)), color-stop(67%, var(--FAIRYDUST-FLAME-orange)), color-stop(83%, var(--FAIRYDUST-FLAME-orange)), color-stop(83%, var(--FAIRYDUST-FLAME-red)), color-stop(100%, var(--FAIRYDUST-FLAME-red)) );
+
+    background: -webkit-linear-gradient(left,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% ); /* Chrome10+,Safari5.1+ */
+
+    /background:   -moz-linear-gradient(left,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% );  *//* FF3.6+ */
+
+    background:      -o-linear-gradient(left,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% ); /* Opera 11.10+ */
+
+    background:     -ms-linear-gradient(left,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% ); /* IE10+ */
+
+    background:     linear-gradient(to right,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% ); /* W3C */
 }
