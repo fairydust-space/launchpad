@@ -1,28 +1,45 @@
 :root{
+    /* Colors taken from the logo */
+    --FAIRYDUST-BODY: #0B7D38; /* dark green */
+    --FAIRYDUST-BODY-shadow: #02421F; /* very dark green */
+    --FAIRYDUST-BODY-WINDOW-frame-outer: #EDE219; /* yellow */
+    --FAIRYDUST-BODY-WINDOW-frame-inner: #F8AF56; /* peachy */
+    --FAIRYDUST-BODY-WINDOW-frame-highlight: #F1820A; /* orange */
+    --FAIRYDUST-FLAME-red: #E20706; /* red */
+    --FAIRYDUST-FLAME-orange: #FE8B0B; /* orange */
+    --FAIRYDUST-FLAME-yellow: #FEEC1A; /* yellow */
+    --FAIRYDUST-FLAME-green: #087F28; /* green */
+    --FAIRYDUST-FLAME-blue: #064DFE; /* blue */
+    --FAIRYDUST-FLAME-purple: #740D85; /* purple */
+    --FAIRYDUST-SPACE: #0A0C22; /* space black */
+    --FAIRYDUST-STAR: #F3DEC8; /* off white */
+
+    --FAIRYDUST-BRIGHT: #ccc; /* white-ish highlight */
+
     
-    --MAIN-TEXT-color:#323232; /* Color of text by default */
+    --MAIN-TEXT-color: var(--FAIRYDUST-SPACE); /* was #323232;*/ /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
-    --MAIN-LINK-color:#0B7D38; /* Color of links */
-    --MAIN-LINK-HOVER-color:#167ad0; /* Color of hovered links */
-    --MAIN-ANCHOR-color: #1C90F3; /* color of anchors on titles */
+    --MAIN-LINK-color:var(--FAIRYDUST-BODY); /* Color of links */
+    --MAIN-LINK-HOVER-color: var(--FAIRYDUST-FLAME-blue); /* Color of hovered links */
+    --MAIN-ANCHOR-color: #var(--FAIRYDUST-FLAME-blue); /* color of anchors on titles */
+    --MAIN-LINK-ACTIVE-color: var(--FAIRYDUST-BODY-shadow); /* Color of clicked links */
 
-    --MENU-HEADER-BG-color:#1C90F3; /* Background color of menu header */
-    --MENU-HEADER-BORDER-color:#33a1ff; /*Color of menu header border */ 
+    --MENU-HEADER-BG-color:var(--FAIRYDUST-SPACE); /* Background color of menu header */
+    --MENU-HEADER-BORDER-color:var(--FAIRYDUST-FLAME-green); /*Color of menu header border */ 
 
-    --MENU-SEARCH-BG-color:#167ad0; /* Search field background color (by default borders + icons) */
-    --MENU-SEARCH-BOX-color: #33a1ff; /* Override search field border color */
-    --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
+    --MENU-SEARCH-BG-color:var(--FAIRYDUST-BRIGHT); /* Search field background color (by default borders + icons) */
+    --MENU-SEARCH-BOX-color: var(--FAIRYDUST-FLAME-green); /* Override search field border color */
+    --MENU-SEARCH-BOX-ICONS-color: var(--FAIRYDUST-SPACE); /* Override search field icons color */
 
     --MENU-SECTIONS-ACTIVE-BG-color:#20272b; /* Background color of the active section and its childs */
     --MENU-SECTIONS-BG-color:#252c31; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
     --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */
     --MENU-SECTION-ACTIVE-CATEGORY-color: #777; /* Color of active category text */
-    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
+    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #ccc; /* Color of background for the active category (only) */
 
-    --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
-    --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
-    
+    --MENU-VISITED-color: var(--FAIRYDUST-FLAME-purple); /* Color of 'page visited' icons in menu */
+    --MENU-SECTION-HR-color: var( --FAIRYDUST-FLAME-green); /* Color of <hr> separator in menu */  
 }
 
 body {
@@ -44,7 +61,7 @@ a {
 
 a.highlight {
     color: var(--MAIN-LINK-color);
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .anchor {
@@ -53,6 +70,10 @@ a.highlight {
 
 a:hover {
     color: var(--MAIN-LINK-HOVER-color);
+}
+
+a:active {
+    color: var(--MAIN-LINK-ACTIVE-color);
 }
 
 #sidebar ul li.visited > a .read-icon {
