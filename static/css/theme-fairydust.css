@@ -18,7 +18,7 @@
     --FAIRYDUST-BRIGHT: #ccc; /* off-white */
 
     
-    --MAIN-TEXT-color: var(--FAIRYDUST-SPACE); /* was #323232;*/ /* Color of text by default */
+    --MAIN-TEXT-color: var(--FAIRYDUST-SPACE); /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
     --MAIN-LINK-color:var(--FAIRYDUST-BODY); /* Color of links */
     --MAIN-LINK-HOVER-color: var(--FAIRYDUST-FLAME-blue); /* Color of hovered links */
