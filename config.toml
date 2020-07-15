@@ -21,12 +21,11 @@ defaultContentLanguageInSubdir = true
   home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
-  [Languages.en]
-    title = "fairydust.space - 🚀"
-    theme = "hugo-theme-learn"
-    weight = 1
-    languageName = "English"
-    contentDir = "content/en"
+[Languages.en]
+  title = "fairydust.space - 🚀"
+  theme = "hugo-theme-learn"
+  weight = 1
+  languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
   name = "chat.fairydust.space"
@@ -38,12 +37,16 @@ defaultContentLanguageInSubdir = true
   url = "contact"
   weight = 20
 
+[[Languages.en.menu.shortcuts]]
+  name = "Terms of Service"
+  url = "https://fairydust.space/_matrix/consent"
+  weight = 100
+
 [Languages.de]
   title = "fairydust.space - 🚀"
   theme = "hugo-theme-learn"
   weight = 1
   languageName = "Deutsch"
-  contentDir = "content/de"
 
 [[Languages.de.menu.shortcuts]]
   name = "chat.fairydust.space"
@@ -54,4 +57,9 @@ defaultContentLanguageInSubdir = true
   name = "Kontaktiere uns"
   url = "contact"
   weight = 20
+
+[[Languages.de.menu.shortcuts]]
+  name = "Terms of Service"
+  url = "https://fairydust.space/_matrix/consent"
+  weight = 100
 

@@ -1,6 +1,6 @@
 ---
 title: "Reach out to us!"
-date: 2020-07-04T18:53:49Z
+date: 2020-07-07T19:00:00Z
 draft: false
 ---
 
@@ -16,13 +16,13 @@ We post status updates, like maintenance:
 We encourage you to enable End-To-End-Encryption for all chats!  
 
 ### Here's how:
-- In Matrix find the section “Direct Chats” in the left de
+- In Matrix find the section “Direct Chats” in the left sidebar
 - Click the + button to start chat
 - In the username field enter at least one of our Matrix IDs listed below
 - Click the Go button to create the new chat
-- In the newly created chat go to ⚙️ Settings at 
+- In the newly created chat go to ⚙️ Settings at the top
 - Continue to Security & Privacy
-- Flip the switch that says “Encrypted” to
+- Flip the switch that says “Encrypted” to ON.
 - Now you can send encrypted messages to us as indicated in the input field
 
     - fredl: [@fredl:fairydust.space](https://matrix.to/#/@fredl:fairydust.space)

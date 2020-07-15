@@ -141,3 +141,47 @@ a:active {
 
     background:     linear-gradient(to right,   var(--FAIRYDUST-FLAME-purple) 0%, var(--FAIRYDUST-FLAME-purple) 17%, var(--FAIRYDUST-FLAME-blue) 17%, var(--FAIRYDUST-FLAME-blue) 33%, var(--FAIRYDUST-FLAME-green) 33%, var(--FAIRYDUST-FLAME-green) 50%, var(--FAIRYDUST-FLAME-yellow) 50%, var(--FAIRYDUST-FLAME-yellow) 66%, var(--FAIRYDUST-FLAME-orange) 66%, var(--FAIRYDUST-FLAME-orange) 83%, var(--FAIRYDUST-FLAME-red) 83%, var(--FAIRYDUST-FLAME-red) 100% ); /* W3C */
 }
+
+div.notices.info p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-yellow);
+    background: #FFF2DB;
+}
+div.notices.info p:first-child:after {
+    content: 'Info';
+}
+div.notices.warning p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-red);
+    background: #FAE2E2;
+}
+div.notices.warning p:first-child:after {
+    content: 'Warning';
+}
+div.notices.note p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-blue);
+    background: #E7F2FA;
+}
+div.notices.note p:first-child:after {
+    content: 'Note';
+}
+div.notices.tip p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-purple);
+    background: #E6F9E6;
+}
+div.notices.tip p:first-child:after {
+    content: 'Tip';
+}
+div.notices.maintenance p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-orange);
+    background: #E7F2FA;
+}
+div.notices.maintenance p:first-child:after {
+    content: 'Maintenance';
+}
+
+div.notices.no_maintenance p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-green);
+    background: #E7F2FA;
+}
+div.notices.no_maintenance p:first-child:after {
+    content: 'Maintenance';
+}
