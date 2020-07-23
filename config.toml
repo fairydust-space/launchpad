@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = true
 
 [[Languages.en.menu.shortcuts]]
   name = "Contact us"
-  url = "contact"
+  url = "/contact"
   weight = 20
 
 [[Languages.en.menu.shortcuts]]
@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = true
 
 [[Languages.de.menu.shortcuts]]
   name = "Kontaktiere uns"
-  url = "contact"
+  url = "/contact"
   weight = 20
 
 [[Languages.de.menu.shortcuts]]
