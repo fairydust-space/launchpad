@@ -1,6 +1,6 @@
 ---
 title: "5) Financial Transparency"
-date: 2020-07-07T19:00:00Z
+date: 2020-07-23T19:00:00Z
 draft: false
 ---
 
@@ -23,7 +23,7 @@ draft: false
 
 ## server expenses
 ### Hetzner
-- one-off setup: EUR 46,80 (invoice dated 18.02.2020)
+- one-off setup: EUR 46,80 (invoice dated 2020-02-18)
 - recurring monthly: EUR 46.80
 
 ### server total
@@ -39,13 +39,13 @@ draft: false
 ## donations
 Donations by natural persons will be displayed as 'anonymous' unless the donor wants their name and/or nickname displayed. In that case, please let us know what name we should list here.
 
-Donations by legal persons (companies, organisations, etc.) will by default be published with the institution's name.
+Donations by legal entities (companies, organisations, etc.) will by default be published with the organisation's name.
 
 ### howto:
 - SEPA transfer: ask [fredl](https://matrix.to/#/@fredl:fairydust.space) for his bank details (IBAN)
 - https://liberapay.com/fairydust.space/
 
 ### donations history / hall of fluff
-- 50,- € on 2020-04-02, by MacLemon
--  3,- € on 2020-05-15, by anonymous
 - 75,- € on 2020-06-13, by anonymous
+-  3,- € on 2020-05-15, by anonymous
+- 50,- € on 2020-04-02, by MacLemon
