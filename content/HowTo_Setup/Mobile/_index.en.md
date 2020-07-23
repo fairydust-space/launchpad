@@ -1,5 +1,5 @@
 ---
-title: "Mobile (Android, iOS)"
+title: "Mobile Apps"
 date: 2020-07-07T19:00:00Z
 draft: false
 ---
