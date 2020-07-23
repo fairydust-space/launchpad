@@ -1,5 +1,5 @@
 ---
-title: "3) FAQ"
+title: "FAQ"
 date: 2020-07-07T19:00:00Z
 draft: false
 ---
@@ -10,5 +10,6 @@ draft: false
 Nothing here yet, [contact us]({{%relref "contact.md" %}}) with your questions! :-)
 {{% /notice %}}
 
-### Your Question?
+### Your Question
+
 - an honest answer
