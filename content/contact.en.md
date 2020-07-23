@@ -7,23 +7,29 @@ draft: false
 There are multiple ways you can reach the cabin crew of the [fairydust.space](/) Matrix server instance.
 
 
-## Status Information
-We post status updates, like maintenance:
-- on the Fediverse at [@fairydust_space@chaos.social](https://chaos.social/@fairydust_space)
+## Status and Announcements
+We post status updates, like maintenance windows:
+- on the Fediverse (Mastodon) at [@fairydust_space@chaos.social](https://chaos.social/@fairydust_space)
 - on Twitter at [@fairydust_space](https://twitter.com/fairydust_space)
+- on the [“Fairydust Mission Briefing” announcement channel](https://matrix.to/#/!GCHneCHwXymPGwwOzT:fairydust.space?via=fairydust.space&via=matrix.org&via=maclemon.at) directly via Matrix. This channel is *read only*, low noise, high signal. Your Emoji reactions are welcome!
 
-## Via Matrix (with recommended End-to-End-Encryption)
-We encourage you to enable End-To-End-Encryption for all chats!  
+## Via Matrix
+Direct chats are automatically end-to-end-encrypted by default.  
 
-### Here's how:
-- In Matrix find the section “Direct Chats” in the left sidebar
+### Community Support
+For general questions and discussion about fairydust.space please join our community channel!
+- [#general:fairydust.space](https://matrix.to/#/!XlwwoDktJINXbHnVqm:fairydust.space?via=fairydust.space&via=kde.org&via=maclemon.at)
+
+
+### How to poke the admins:
+You are welcome to directly poke the admins of this instance.
+
+- In your Matrix client, like [Element](https://element.io/), find the section “People” in the room list on the left side.
 - Click the + button to start chat
 - In the username field enter at least one of our Matrix IDs listed below
 - Click the Go button to create the new chat
-- In the newly created chat go to ⚙️ Settings at the top
-- Continue to Security & Privacy
-- Flip the switch that says “Encrypted” to ON.
 - Now you can send encrypted messages to us as indicated in the input field
+- You can start typing right away
 
     - fredl: [@fredl:fairydust.space](https://matrix.to/#/@fredl:fairydust.space)
     - MacLemon: [@MacLemon:maclemon.at](https://matrix.to/#/@MacLemon:maclemon.at)
