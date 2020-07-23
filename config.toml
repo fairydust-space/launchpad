@@ -34,31 +34,10 @@ defaultContentLanguageInSubdir = true
 
 [[Languages.en.menu.shortcuts]]
   name = "Contact us"
-  url = "/contact/"
+  url = "/contact"
   weight = 20
 
 [[Languages.en.menu.shortcuts]]
-  name = "Terms of Service"
-  url = "https://fairydust.space/_matrix/consent"
-  weight = 100
-
-[Languages.de]
-  title = "fairydust.space - 🚀"
-  theme = "hugo-theme-learn"
-  weight = 1
-  languageName = "Deutsch"
-
-[[Languages.de.menu.shortcuts]]
-  name = "chat.fairydust.space"
-  url = "https://chat.fairydust.space"
-  weight = 10
-
-[[Languages.de.menu.shortcuts]]
-  name = "Kontaktiere uns"
-  url = "/contact/"
-  weight = 20
-
-[[Languages.de.menu.shortcuts]]
   name = "Terms of Service"
   url = "https://fairydust.space/_matrix/consent"
   weight = 100
