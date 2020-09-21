@@ -14,6 +14,7 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice no_maintenance %}}
-Currently we have **no** maintenance on our schedule.
+{{% notice maintenance %}}
+<!-- Currently we have **no** maintenance on our schedule.-->
+Scheduled engine maintenance: Tuesday, 2020-09-22 between 19:00 - 20:00 UTC. (21:00 - 22:00 CEST)
 {{% /notice %}}
