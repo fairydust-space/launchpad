@@ -3,7 +3,7 @@ title: "launchpad"
 date: 2020-07-07T19:00:00Z
 ---
 
-# Welcome
+## Welcome
 
 Hi,  
 this is fairydust.space, an instance on the federated [Matrix](https://matrix.org/) Network for end-to-end-encrypted communication.  
@@ -14,7 +14,6 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice maintenance %}}
-<!-- Currently we have **no** maintenance on our schedule.-->
-Scheduled engine maintenance: Tuesday, 2020-09-22 between 19:00 - 20:00 UTC. (21:00 - 22:00 CEST)
+{{% notice note %}}
+Currently we have **no** maintenance on our schedule.
 {{% /notice %}}
