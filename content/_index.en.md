@@ -14,6 +14,10 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice note %}}
-Currently we have **no** maintenance on our schedule.
+{{% notice info %}}
+Scheduled maintenance for [OpenSSL HIGH Severity Patch](https://mta.openssl.org/pipermail/openssl-announce/2020-December/000186.html) sometime between Tuesday 2020-12-08 13:00 UTC (14:00 CET) and Thursday 2020-12-10 23:00 UTC (24:00 CET).
+
+As soon as we know when the necessary patches have been released we'll narrow that window down.
+
+Please allow a few short downtimes for the necessary host restarts.
 {{% /notice %}}
