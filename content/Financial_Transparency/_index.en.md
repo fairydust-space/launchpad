@@ -31,21 +31,21 @@ draft: false
 ### Hetzner
 
 - one-off setup: EUR 46,80 (invoice dated 2020-02-18)
-- recurring monthly: EUR 46.80
+- recurring monthly: EUR 46,80
 
 ### server total
 
-- by 2020-06-13: EUR 234
+- by 2021-01-01: EUR 561,60
 
 ## expenses total
 
 (private usage of domain 2017-2019 deducted)
 
-- by 2020-06-13: EUR 234
+- by 2021-01-01: EUR 561,60
 
 ## balance
 
-- by 2020-06-13: EUR -107
+- by 2021-01-01: EUR -269,43
 
 ## donations
 
@@ -57,9 +57,13 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 - SEPA transfer: ask [fredl](https://matrix.to/#/@fredl:fairydust.space) for his bank details (IBAN)
 - [Liberapay: Fairydust.space](https://liberapay.com/fairydust.space/)
+- Bitcoin: bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j
 
 ### donations history / hall of fluff
 
-- 75,- € on 2020-06-13, by anonymous
-- 03,- € on 2020-05-15, by anonymous
-- 50,- € on 2020-04-02, by MacLemon
+- 18,97 € on 2020-12-14, by anonymous
+- 50,00 € on 2020-12-09, by MacLemon
+- 38,29 € on 2020-08-21, by anonymous
+- 75,00 € on 2020-06-13, by anonymous
+- 03,00 € on 2020-05-15, by anonymous
+- 50,00 € on 2020-04-02, by MacLemon
