@@ -45,7 +45,7 @@ draft: false
 
 ## balance
 
-- by 2021-01-01: EUR -269,43
+- by 2021-01-01: EUR -171,82
 
 ## donations
 
