@@ -14,17 +14,18 @@ draft: false
 
 ### Easyname
 
-- 2017-03-12 - 2018-03.13: unknown
-- 2018-03-12 - 2019-03.13: EUR 11,90 (invoice dated 2018-01-29)
 - 2019-03-12 - 2020-03-13: EUR 22,90 (invoice dated 2019-02-03)
+- 2018-03-12 - 2019-03.13: EUR 11,90 (invoice dated 2018-01-29)
+- 2017-03-12 - 2018-03.13: unknown
 
 ### Gandi.net
 
+- 2021-01-17 - 2022-03-21: EUR 29,76 (invoice dated 2021-01-17)
 - 2020-01-07 - 2021-03-21: EUR 00,00 (invoice dated 2020-01-07, support goodwill)
 
 ### domain total
 
-- by 2020-02-04: EUR 34,80
+- by 2020-02-04: EUR 29,76
 
 ## server expenses
 
@@ -35,17 +36,17 @@ draft: false
 
 ### server total
 
-- by 2021-01-01: EUR 561,60
+- by 2021-01-01: EUR 591,36
 
 ## expenses total
 
 (private usage of domain 2017-2019 deducted)
 
-- by 2021-01-01: EUR 561,60
+- by 2021-01-01: EUR 591,36
 
 ## balance
 
-- by 2021-01-01: EUR -171,82
+- by 2021-01-01: EUR -189,01
 
 ## donations
 
@@ -61,6 +62,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 ### donations history / hall of fluff
 
+- 12,57 € on 2021-01-17, by anonymous
 - 97,61 € on 2021-01-03, by anonymous
 - 18,97 € on 2020-12-14, by anonymous
 - 50,00 € on 2020-12-09, by MacLemon
