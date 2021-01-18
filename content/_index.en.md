@@ -18,6 +18,6 @@ your cabin crew &#x1F680;
 2021-01-16 16:00 -  We're seeing Email bounces to t-mobile.de. We're in contact with them to remedy the delivery issues.
 {{% /notice %}}
 
-{{% notice info %}}
+{{% notice note %}}
 Currently we have **no** maintenance on our schedule.
 {{% /notice %}}
