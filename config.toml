@@ -9,13 +9,14 @@ defaultContentLanguageInSubdir = true
 
 [params]
 #  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "our awesome launchpad"
+  description = "Lifts you up, higher and higher"
   author = "Cabin Crew"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green", "fairydust".
   themeVariant = "fairydust"
+  enableRobotsTXT = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
