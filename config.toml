@@ -16,7 +16,6 @@ defaultContentLanguageInSubdir = true
   disableNextPrev = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green", "fairydust".
   themeVariant = "fairydust"
-  enableRobotsTXT = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON"]

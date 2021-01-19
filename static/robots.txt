@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fairydust.space/sitemap.xml
