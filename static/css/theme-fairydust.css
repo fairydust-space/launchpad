@@ -164,12 +164,14 @@ div.notices.note p:first-child:after {
     content: 'Note';
 }
 div.notices.tip p {
-    border-top: 30px solid var(--FAIRYDUST-FLAME-purple);
+    border-top: 30px solid var(--FAIRYDUST-FLAME-green);
     background: #E6F9E6;
 }
 div.notices.tip p:first-child:after {
-    content: 'Tip';
+    content: 'Note';
 }
+
+
 div.notices.maintenance p {
     border-top: 30px solid var(--FAIRYDUST-FLAME-orange);
     background: #E7F2FA;
@@ -183,5 +185,5 @@ div.notices.no_maintenance p {
     background: #E7F2FA;
 }
 div.notices.no_maintenance p:first-child:after {
-    content: 'Maintenance';
+    content: 'No Maintenance';
 }
