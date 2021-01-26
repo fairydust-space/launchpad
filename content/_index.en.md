@@ -14,12 +14,6 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice tip %}}
-2021-01-19 - Email notifications to `@t-mobile.de` addresses should be working reliably again.
-
-2021-01-16 16:00 -  We're seeing Email bounces to `t-mobile.de`. We're in contact with them to remedy the delivery issues.
-{{% /notice %}}
-
 {{% notice no_maintenance %}}
 Currently we have **no** maintenance on our schedule.
 {{% /notice %}}
