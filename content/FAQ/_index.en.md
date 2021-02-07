@@ -82,3 +82,7 @@ No. This server is configured to boot through to service availability without re
 ### Is presence enabled on this Matrix instance?
 
 Presence is disabled on fairydust.space for privacy and performance reasons.
+
+### Do you support 3rd party web interfaces?
+
+Yes, you can use any Matrix webinterface hosted by a third party or yourselves with the fairydust.space Matrix server. Depending on your interface you may need to manually tell it how to connect to our homeserver running at `https://matrix.fairydust.space`. We do support client autodiscovery if the webinterface of your trust also supports it.

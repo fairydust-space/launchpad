@@ -44,8 +44,13 @@ In `nginx` we always send this response header:
 Referrer-Policy: no-referrer
 ```
 
-This commands browsers not to send a `referer` header in any case.
+This commands browsers not to send a `referer` header in any case when using our provided [Element/Web Instance](https://chat.fairydust.space/) or this website.
+This does *not* necessarily apply if you use a 3rd party hosted webchat client.
 
 ### Tor friendly
 
 If you prefer [Tor Browser](https://www.torproject.org/download/) to use our website or chat, you're encouraged to do so. Likewise if you're using any Matrix client of your choice via Tor as a SOCKS proxy. Currently we do not (yet) provide an `.onion` service.
+
+### 3rd party web chats
+
+If you prefer to use a different chat webinterface than the one we provide, you're welcome to do so. We also support client autoconfiguration.
