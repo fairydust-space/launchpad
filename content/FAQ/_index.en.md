@@ -78,3 +78,7 @@ Austria, Europe (EU)
 ### Are the server disks encrypted?
 
 No. This server is configured to boot through to service availability without requiring user interaction.
+
+### Is presence enabled on this Matrix instance?
+
+Presence is disabled on fairydust.space for privacy and performance reasons.
