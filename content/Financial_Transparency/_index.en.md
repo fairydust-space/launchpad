@@ -36,17 +36,17 @@ draft: false
 
 ### server total
 
-- by 2021-01-01: EUR 591,36
+- by 2021-03-03: EUR 655,20
 
 ## expenses total
 
 (private usage of domain 2017-2019 deducted)
 
-- by 2021-01-01: EUR 591,36
+- by 2021-03-03: EUR 684,96
 
 ## balance
 
-- by 2021-01-01: EUR -189,01
+- by 2021-03-03: EUR -241,52
 
 ## donations
 
@@ -60,8 +60,14 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 - [Liberapay: Fairydust.space](https://liberapay.com/fairydust.space/)
 - Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
+### donations total
+- by 2021-03-03: EUR 443,44
+
 ### donations history / hall of fluff
 
+- 50,00 € on 2021-03-03, by Hetti
+- 08,00 € on 2021-02-28, by anonymous
+- 40,00 € on 2021-01-26, by anonymous
 - 12,57 € on 2021-01-17, by anonymous
 - 97,61 € on 2021-01-03, by anonymous
 - 18,97 € on 2020-12-14, by anonymous
