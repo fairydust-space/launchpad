@@ -66,7 +66,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 ### donations history / hall of fluff
 
 - 50,00 € on 2021-03-03, by Hetti
-- 08,00 € on 2021-02-28, by anonymous
+- 08,00 € on 2021-02-28, by Kay
 - 40,00 € on 2021-01-26, by anonymous
 - 12,57 € on 2021-01-17, by anonymous
 - 97,61 € on 2021-01-03, by anonymous
