@@ -46,7 +46,7 @@ draft: false
 
 ## balance
 
-- by 2021-03-03: EUR -241,52
+- by 2021-03-05: EUR -226,52
 
 ## donations
 
@@ -61,10 +61,11 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 - Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
 ### donations total
-- by 2021-03-03: EUR 443,44
+- by 2021-03-05: EUR 458,44
 
 ### donations history / hall of fluff
 
+- 15,00 € on 2021-03-05, by LostInWeb
 - 50,00 € on 2021-03-03, by Hetti
 - 08,00 € on 2021-02-28, by Kay
 - 40,00 € on 2021-01-26, by anonymous
