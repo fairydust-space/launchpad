@@ -65,15 +65,26 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 ### donations history / hall of fluff
 
-- 15,00 € on 2021-03-05, by LostInWeb
-- 50,00 € on 2021-03-03, by Hetti
-- 08,00 € on 2021-02-28, by Kay
-- 40,00 € on 2021-01-26, by anonymous
-- 12,57 € on 2021-01-17, by anonymous
-- 97,61 € on 2021-01-03, by anonymous
-- 18,97 € on 2020-12-14, by anonymous
-- 50,00 € on 2020-12-09, by MacLemon
-- 38,29 € on 2020-08-21, by anonymous
-- 75,00 € on 2020-06-13, by anonymous
-- 03,00 € on 2020-05-15, by anonymous
-- 50,00 € on 2020-04-02, by MacLemon
+#### 2021
+
+| Amount  |       2021 |     by    |
+| ---:    |     -----: |     :--:  |
+| 15,00 € | 2021-03-05 | LostInWeb |
+| 50,00 € | 2021-03-03 | Hetti     |
+| 08,00 € | 2021-02-28 | Kay       |
+| 40,00 € | 2021-01-26 | anonymous |
+| 12,57 € | 2021-01-17 | anonymous |
+| 97,61 € | 2021-01-03 | anonymous |
+| __223,18 €__ | __2021-01-01 .. 2021-03-16__ | __total__ |
+
+#### 2020
+
+| Amount  |       2020 |     by    |
+| ---:    |     -----: |     :--:  |
+| 18,97 € | 2020-12-14 | anonymous |
+| 50,00 € | 2020-12-09 | anonymous |
+| 38,29 € | 2020-08-21 | anonymous |
+| 75,00 € | 2020-06-13 | anonymous |
+| 03,00 € | 2020-05-15 | anonymous |
+| 50,00 € | 2020-04-02 | MacLemon  |
+| __235,26__ | __2020-01-01 .. 2020-12-31__ | __total__ |
