@@ -82,7 +82,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 | Amount  |       2020 |     by    |
 | ---:    |     -----: |     :--:  |
 | 18,97 € | 2020-12-14 | anonymous |
-| 50,00 € | 2020-12-09 | anonymous |
+| 50,00 € | 2020-12-09 | MacLemon |
 | 38,29 € | 2020-08-21 | anonymous |
 | 75,00 € | 2020-06-13 | anonymous |
 | 03,00 € | 2020-05-15 | anonymous |
