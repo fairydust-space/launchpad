@@ -69,7 +69,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 | Amount  |       2021 |     by    |
 | ---:    |     -----: |     :--:  |
-| 133,82 € | 2021-03-22 | Cambid82 |
+| 133,82 € | 2021-03-22 | Cambid83 |
 | 15,00 € | 2021-03-05 | LostInWeb |
 | 50,00 € | 2021-03-03 | Hetti     |
 | 08,00 € | 2021-02-28 | Kay       |
