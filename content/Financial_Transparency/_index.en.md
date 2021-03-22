@@ -36,17 +36,17 @@ draft: false
 
 ### server total
 
-- by 2021-03-03: EUR 655,20
+- by 2021-03-22: EUR 702,00
 
 ## expenses total
 
 (private usage of domain 2017-2019 deducted)
 
-- by 2021-03-03: EUR 684,96
+- by 2021-03-03: EUR 731,76
 
 ## balance
 
-- by 2021-03-05: EUR -226,52
+- by 2021-03-05: EUR -139,50
 
 ## donations
 
@@ -61,7 +61,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 - Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
 ### donations total
-- by 2021-03-05: EUR 458,44
+- by 2021-03-22: EUR 592,26
 
 ### donations history / hall of fluff
 
@@ -69,13 +69,14 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 | Amount  |       2021 |     by    |
 | ---:    |     -----: |     :--:  |
+| 133,82 € | 2021-03-22 | Cambid82 |
 | 15,00 € | 2021-03-05 | LostInWeb |
 | 50,00 € | 2021-03-03 | Hetti     |
 | 08,00 € | 2021-02-28 | Kay       |
 | 40,00 € | 2021-01-26 | anonymous |
 | 12,57 € | 2021-01-17 | anonymous |
 | 97,61 € | 2021-01-03 | anonymous |
-| __223,18 €__ | __2021-01-01 .. 2021-03-16__ | __total__ |
+| __357,00 €__ | __2021-01-01 .. 2021-03-22__ | __total__ |
 
 #### 2020
 
