@@ -14,6 +14,6 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice no_maintenance %}}
-Currently we have **no** maintenance on our schedule.
+{{% notice maintenance %}}
+Maintenance scheduled for Saturday, 2021-03-27, from 18:00 UTC.
 {{% /notice %}}
