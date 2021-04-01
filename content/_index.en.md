@@ -14,11 +14,6 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-
-{{% notice info %}}
-To combat automated account registrations abused for spamming we've temporarily closed new registrations.
-{{% /notice %}}
-
 {{% notice no_maintenance %}}
 At the moment there is no maintenance on our schedule.
 {{% /notice %}}
