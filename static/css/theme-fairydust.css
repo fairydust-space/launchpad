@@ -24,6 +24,7 @@
     --MAIN-LINK-HOVER-color: var(--FAIRYDUST-FLAME-blue); /* Color of hovered links */
     --MAIN-ANCHOR-color: var(--FAIRYDUST-FLAME-blue); /* color of anchors on titles */
     --MAIN-LINK-ACTIVE-color: var(--FAIRYDUST-BODY-shadow); /* Color of clicked links */
+    --MAIN-LINK-VISITED-color: var(--FAIRYDUST-FLAME-purple); /* Color of visited links */
 
     --MENU-HEADER-BG-color:var(--FAIRYDUST-SPACE); /* Background color of menu header */
     --MENU-HEADER-BORDER-color:var(--FAIRYDUST-BODY); /*Color of menu header border */ 
@@ -75,6 +76,10 @@ a:hover {
 
 a:active {
     color: var(--MAIN-LINK-ACTIVE-color);
+}
+
+a:visited {
+    color: var(--MAIN-LINK-VISITED-color);
 }
 
 #sidebar ul li.visited > a .read-icon {
