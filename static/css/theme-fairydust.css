@@ -97,6 +97,11 @@ a:visited {
     transition: width 0.5s ease;
     background-color: var(--MAIN-LINK-HOVER-color);
 }
+
+#body a:visited.highlight:after {
+    background-color: var(--MAIN-LINK-VISITED-color);
+}
+
 #sidebar {
 	background-color: var(--MENU-SECTIONS-BG-color);
 }
