@@ -54,3 +54,11 @@ If you prefer [Tor Browser](https://www.torproject.org/download/) to use our web
 ### 3rd party web chats
 
 If you prefer to use a different chat webinterface than the one we provide, you're welcome to do so. We also support client autoconfiguration.
+
+### Federated Learning of Cohorts (FLoC) tracking
+
+We send a [Permissions-Policy Header](https://www.w3.org/TR/permissions-policy-1/) that instructs browsers to turn off [Federated Learning of Cohorts (FLoC)](https://github.com/WICG/floc#opting-out-of-computation).
+
+```
+Permissions-Policy: interest-cohort=()
+```
