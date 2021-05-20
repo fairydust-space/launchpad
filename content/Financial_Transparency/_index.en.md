@@ -36,17 +36,17 @@ draft: false
 
 ### server total
 
-- by 2021-03-22: EUR 702,00
+- by 2021-05-20: EUR 795,60
 
 ## expenses total
 
 (private usage of domain 2017-2019 deducted)
 
-- by 2021-03-03: EUR 731,76
+- by 2021-05-20: EUR 825,36
 
 ## balance
 
-- by 2021-03-31: EUR 149,30
+- by 2021-05-20: EUR 71,70
 
 ## donations
 
@@ -61,7 +61,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 - Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
 ### donations total
-- by 2021-03-31: EUR 881,06
+- by 2021-05-20: EUR 897,06
 
 ### donations history / hall of fluff
 
@@ -69,7 +69,9 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 | Amount  |       2021 |     by    |
 | ---:    |     -----: |     :--:  |
-| 08,00 € | 2021-03-31 | Kay     |
+| 08,00 € | 2021-04-30 | Kay       |
+| 08,00 € | 2021-04-19 | LuKaRo    |
+| 08,00 € | 2021-03-31 | Kay       |
 | 280,80 € | 2021-03-23 | C3W      |
 | 133,82 € | 2021-03-22 | Cambid83 |
 | 15,00 € | 2021-03-05 | LostInWeb |
