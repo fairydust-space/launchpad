@@ -80,7 +80,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 | 40,00 € | 2021-01-26 | anonymous |
 | 12,57 € | 2021-01-17 | anonymous |
 | 97,61 € | 2021-01-03 | anonymous |
-| __645,80 €__ | __2021-01-01 .. 2021-03-31__ | __total__ |
+| __661,80 €__ | __2021-01-01 .. 2021-05-20__ | __total__ |
 
 #### 2020
 
