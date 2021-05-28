@@ -86,3 +86,7 @@ Presence is disabled on fairydust.space for privacy and performance reasons.
 ### Do you support 3rd party web interfaces?
 
 Yes, you can use any Matrix webinterface hosted by a third party or yourselves with the fairydust.space Matrix server. Depending on your interface you may need to manually tell it how to connect to our homeserver running at `https://matrix.fairydust.space`. We do support client autodiscovery if the webinterface of your trust also supports it.
+
+### Are you providing any publicly available bridges to other services?
+
+We are not providing any bridges to other services. Since Matrix is a *federated* network, you are free to use bridges provided by other servers, provided these other services allow you to use them.
