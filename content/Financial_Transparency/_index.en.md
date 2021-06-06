@@ -46,7 +46,7 @@ draft: false
 
 ## balance
 
-- by 2021-05-20: EUR 71,70
+- by 2021-05-31: EUR 79,70
 
 ## donations
 
@@ -61,7 +61,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 - Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
 ### donations total
-- by 2021-05-20: EUR 897,06
+- by 2021-05-31: EUR 905,06
 
 ### donations history / hall of fluff
 
@@ -69,6 +69,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 | Amount  |       2021 |     by    |
 | ---:    |     -----: |     :--:  |
+| 08,00 € | 2021-05-31 | Kay       |
 | 08,00 € | 2021-04-30 | Kay       |
 | 08,00 € | 2021-04-19 | LuKaRo    |
 | 08,00 € | 2021-03-31 | Kay       |
@@ -80,7 +81,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 | 40,00 € | 2021-01-26 | anonymous |
 | 12,57 € | 2021-01-17 | anonymous |
 | 97,61 € | 2021-01-03 | anonymous |
-| __661,80 €__ | __2021-01-01 .. 2021-05-20__ | __total__ |
+| __669,80 €__ | __2021-01-01 .. 2021-05-31__ | __total__ |
 
 #### 2020
 
