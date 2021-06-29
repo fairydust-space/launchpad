@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 title = "fairydust.space - 🚀"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [params]
 #  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
