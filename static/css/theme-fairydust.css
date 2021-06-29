@@ -181,6 +181,13 @@ div.notices.tip p:first-child:after {
     content: 'Note';
 }
 
+div.notices.warning p {
+    border-top: 30px solid var(--FAIRYDUST-FLAME-orange);
+    background: #E7F2FA;
+}
+div.notices.warning p:first-child:after {
+    content: 'Warning';
+}
 
 div.notices.maintenance p {
     border-top: 30px solid var(--FAIRYDUST-FLAME-orange);
