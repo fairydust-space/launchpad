@@ -16,6 +16,8 @@ deine fairydust.space crew &#x1F680;
 
 {{% notice warning %}}
 Im Moment findet leider eine weitgehender DDoS Attacke auf das Matrix Netzwerk statt. Dies kann leider zu Beeindrächtigungen führen.
-Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wir arbeiten aktiv daran!
 {{% /notice %}}
 
+{{% notice note %}}
+Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wir arbeiten aktiv daran!
+{{% /notice %}}
