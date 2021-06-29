@@ -19,5 +19,5 @@ Im Moment findet leider eine weitgehender DDoS Attacke auf das Matrix Netzwerk s
 {{% /notice %}}
 
 {{% notice note %}}
-Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wir arbeiten aktiv daran!
+Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wenn du möchtest [kannst du uns dabei helfen](https://matrix.org/clients/).
 {{% /notice %}}
