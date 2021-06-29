@@ -1,6 +1,6 @@
 ---
-title: "How To Setup"
+title: "Hilfe beim einrichten"
 date: 2020-07-07T19:00:00Z
 draft: false
 ---
-Need help setting up your Matrix client? There shall be guides.
+Brauchst du Hilfe beim einrichten deiner Matrix Applikationen? Hier wirst du (bald) fündig.
