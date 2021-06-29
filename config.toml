@@ -1,5 +1,4 @@
 baseURL = "/"
-languageCode = "en-US"
 defaultContentLanguage = "en"
 relativeURLs = true
 
@@ -27,6 +26,7 @@ defaultContentLanguageInSubdir = true
   weight = 1
   landingPageURL = "/en"
   languageName = "English"
+  languageCode = "en"
 
 [[Languages.en.menu.shortcuts]]
   name = "chat.fairydust.space"
@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = true
 
 [[Languages.en.menu.shortcuts]]
   name = "Contact us"
-  url = "/contact"
+  url = "/en/contact"
   weight = 20
 
 [[Languages.en.menu.shortcuts]]
@@ -48,6 +48,7 @@ defaultContentLanguageInSubdir = true
   weight = 1
   landingPageURL = "/de"
   languageName = "Deutsch"
+  languageCode = "de"
 
 [[Languages.de.menu.shortcuts]]
   name = "chat.fairydust.space"
@@ -56,7 +57,7 @@ defaultContentLanguageInSubdir = true
 
 [[Languages.de.menu.shortcuts]]
   name = "Kontaktiere uns"
-  url = "/contact"
+  url = "/de/contact"
   weight = 20
 
 [[Languages.de.menu.shortcuts]]
