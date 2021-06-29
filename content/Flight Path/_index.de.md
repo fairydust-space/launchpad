@@ -5,5 +5,5 @@ draft: false
 ---
 
 {{% notice note %}}
-To infinity! And beyond!
+Bis zur Unendlichkeit und noch viel weiter!
 {{% /notice %}}
