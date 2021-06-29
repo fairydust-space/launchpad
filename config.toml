@@ -42,3 +42,24 @@ defaultContentLanguageInSubdir = true
   url = "https://fairydust.space/_matrix/consent"
   weight = 100
 
+[Languages.de]
+  title = "fairydust.space - 🚀"
+  theme = "hugo-theme-learn"
+  weight = 1
+  languageName = "Deutsch"
+
+[[Languages.de.menu.shortcuts]]
+  name = "chat.fairydust.space"
+  url = "https://chat.fairydust.space"
+  weight = 10
+
+[[Languages.de.menu.shortcuts]]
+  name = "Kontaktiere uns"
+  url = "/contact"
+  weight = 20
+
+[[Languages.de.menu.shortcuts]]
+  name = "Nutzungsbedingungen (in Englisch)"
+  url = "https://fairydust.space/_matrix/consent"
+  weight = 100
+
