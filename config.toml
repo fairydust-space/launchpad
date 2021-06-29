@@ -1,11 +1,12 @@
 baseURL = ""
 languageCode = "en-US"
 defaultContentLanguage = "en"
+relativeURLs = true
 
 title = "fairydust.space - 🚀"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 [params]
 #  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
@@ -23,7 +24,6 @@ defaultContentLanguageInSubdir = false
 [Languages]
 [Languages.en]
   title = "fairydust.space - 🚀"
-  theme = "hugo-theme-learn"
   weight = 1
   languageName = "English"
 
@@ -44,7 +44,6 @@ defaultContentLanguageInSubdir = false
 
 [Languages.de]
   title = "fairydust.space - 🚀"
-  theme = "hugo-theme-learn"
   weight = 1
   languageName = "Deutsch"
 
