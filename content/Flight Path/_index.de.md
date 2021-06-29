@@ -1,5 +1,5 @@
 ---
-title: "Flight Path"
+title: "Flugpfad"
 date: 2020-07-23T13:00:00Z
 draft: false
 ---
