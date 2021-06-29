@@ -4,7 +4,7 @@ date: 2020-07-07T19:00:00Z
 draft: false
 ---
 
-There are multiple ways you can reach the cabin crew of the [fairydust.space](/) Matrix server instance.
+There are multiple ways you can reach the cabin crew of the [fairydust.space]({{%relref "/" %}}) Matrix server instance.
 
 ## Status and Announcements
 
