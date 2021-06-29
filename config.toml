@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 relativeURLs = true
@@ -25,6 +25,7 @@ defaultContentLanguageInSubdir = true
 [Languages.en]
   title = "fairydust.space - 🚀"
   weight = 1
+  landingPageURL = "/en"
   languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
@@ -45,6 +46,7 @@ defaultContentLanguageInSubdir = true
 [Languages.de]
   title = "fairydust.space - 🚀"
   weight = 1
+  landingPageURL = "/de"
   languageName = "Deutsch"
 
 [[Languages.de.menu.shortcuts]]
