@@ -5,16 +5,18 @@ date: 2020-07-07T19:00:00Z
 
 ## Welcome
 
-Hi,  
-this is fairydust.space, an instance on the federated [Matrix](https://matrix.org/) Network for end-to-end-encrypted communication.  
-To create an account, please use [one of the many clients available](https://matrix.org/clients/), e.g. [Element/Web at chat.fairydust.space](https://chat.fairydust.space) or [one of the native client applications](https://element.io/get-started) for your device.  
-We only do minimal error logging. Users of Tor-Browser are welcome. Extensive information on how we try to protect your privacy can be found [here]({{%relref "privacy" %}}).  
-Our flight path may still be a little rough, so we welcome your positive feedback, questions, and especially bug reports!  
-See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" href="https://chaos.social/@fairydust_space">Mastodon</a>](https://chaos.social/@fairydust_space) if you want to reach out to us!  
-Happy travels,  
-your cabin crew &#x1F680;
+Servus,  
+wir sind fairydust.space, eine Instanz im dezentralen [Matrix](https://matrix.org/) Netzwerk für Ende-zu-Ende-Verschlüsselung.
+Wenn du einen Account erstellen möchtest, benutze bitte [einen von vielen verfügbaren Client](https://matrix.org/clients/), z.B.: [Element/Web auf chat.fairydust.space](https://chat.fairydust.space) or [oder einen der nativen Client Applikationen](https://element.io/get-started) für dein Gerät.  
+Wir loggen nur das notwendigste. Benutzer von Tor-Browser sind bei uns willkommen. Informationen wie wir versuchen deine Privatsphäre zu schützen findest du [here]({{%relref "privacy" %}}).
+Unser Flugpfad ist an manchen Stellen vielleicht noch etwas holprig, wir freuen uns allerdings dennoch auf deine positives Feedback, aber auch deine Fragen und etweiligen Funde zu Fehlern.
+Du kannst uns [so erreichen]({{%relref "contact.md" %}}) oder du findest und einfach auf [<a rel="me" href="https://chaos.social/@fairydust_space">Mastodon</a>](https://chaos.social/@fairydust_space)!  
+Guten Flug wünscht,  
+deine fairydust.space crew &#x1F680;
 
 {{% notice warning %}}
-At the moment there is an ongoing DDoS attack on the matrix network. Expect perfomance to be degraded.
+Im Moment findet leider eine weitgehender DDoS Attacke auf das Matrix Netzwerk statt. Dies kann leider zu Beeindrächtigungen führen.
+
+Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wir arbeiten aktiv daran!
 {{% /notice %}}
 
