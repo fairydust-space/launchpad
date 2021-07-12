@@ -4,31 +4,32 @@ date: 2021-01-06T18:00:00Z
 draft: false
 ---
 
-## Frequently Asked Questions
+## Häufig gestellte Fragen
 
 {{% notice info %}}
-If your question hasn't been answered yet, please [contact us]({{%relref "contact.md" %}})! :-)
+Wenn Deine Frage noch nicht beantwortet wurde, [lass es uns wissen]({{%relref "contact.md" %}})! :-)
 {{% /notice %}}
 
-### Which data do you keep about your users?
+### Welche Daten sammelt ihr über Eure Benutzer?
 
-We only keep the data required to provide the service. We do not keep any data on top of that.
+Wir sammeln lediglich die Daten, welche für die Betreibung unseres Services notwendig sind. Wir sammeln keine zusätzlichen Daten.
 
-### Does the server only run “free software”?
+### Läuft auf dem Server lediglich "freie Software"?
 
-That depends on which aspect of “free” you're referring to.
+Kommt draufan, welchen Aspekt von "frei" Du meinst.
 
-#### Free as in gratis (referring to cost)
+#### Frei im Sinne von Freibier (kostenlos)
 
-Yes, there are no license fees imposed by the software we use.
+Ja, es fallen keine Lizenzkosten für die Verwendung unserer Software an.
 
-#### Free as in public (referring to availability)
+#### Frei im Sinne von öffentlich zugänglich
 
-Yes, all the software we use is publicly available.
+Ja, sämtliche Software, welche wir verwenden, ist öffentlich zugänglich
 
-#### Free as in libre or OpenSource (referring to the license)
+#### Frei im Sinne von freiheitsgewährend (Nutzungsrechte)
 
 These licenses are used by the software packages used on this server. This includes build- and runtime dependencies.
+Folgende Lizenzen werden verwendet in den Softwarepaketen auf diesem Server. Dies beinhaltet Kompilierungs- und Laufzeitzeitabhängigkeiten. 
 
 - APACHE20
 - ART10
@@ -59,34 +60,34 @@ These licenses are used by the software packages used on this server. This inclu
 - TRIO
 - ZLIB
 
-To learn more about them please check the [Open Source Initiative](https://opensource.org/licenses/category)'s or the [Free Software Foundation](https://www.gnu.org/licenses/license-list.html)'s license lists.
+Um mehr über diese Lizenzen zu erfahren, konsultiere die Lizenzlisten der [Open Source Initiative](https://opensource.org/licenses/category) (English) oder der [Free Software Foundation](https://www.gnu.org/licenses/license-list.html) (English).
 
-#### Free as in boot process (referring to the firmware of the hardware we run)
+#### Frei im Sinne der verwendeten Firm- und/oder Hardware
 
-No, this hardware is using a proprietary BIOS by “American Megatrends Inc.” (AMI BIOS).
+Nein, die Hardware verwendet ein proprietäres BIOS von "American Megatrends Inc." (AMI BIOS).
 
-### Which country is the server located in?
+### In welchem Land befindet sich der Server?
 
 #### Matrix Server, Webservices
 
-Germany, Europe (EU)
+Deutschland (EU)
 
 #### Mail Server
 
-Austria, Europe (EU)
+Österreich (EU)
 
-### Are the server disks encrypted?
+### Ist der Serverspeicher verschlüsselt?
 
-No. This server is configured to boot through to service availability without requiring user interaction.
+Nein. Der Server ist so konfiguriert, dass er nach dem Startprozess direkt lauffähig ist, ohne manuelle Interkation.
 
-### Is presence enabled on this Matrix instance?
+### Ist der Anzeigestatus auf dieser Matrix-Instanz aktiviert?
 
-Presence is disabled on fairydust.space for privacy and performance reasons.
+Der Anzeigestatus ist deaktiviert auf fairydust.space im Sinne der Privatsphäre und zur Steigerung der Leistung.
 
-### Do you support 3rd party web interfaces?
+### Unterstützt ihr die Verwendung von Drittanbieter-Webschnittstellen?
 
-Yes, you can use any Matrix webinterface hosted by a third party or yourselves with the fairydust.space Matrix server. Depending on your interface you may need to manually tell it how to connect to our homeserver running at `https://matrix.fairydust.space`. We do support client autodiscovery if the webinterface of your trust also supports it.
+Ja, Du kannst jede Matrix Webschnittstelle verwenden, auch wenn diese von Drittanbietern angeboten werden. Je nach Anbieter musst Du unseren Homeserver manuell angeben: `https://matrix.fairydust.space`. Wir unterstützen die Client-Autoerkennung, falls der Anbieter Deines Vertrauens dies ebenfalls unterstützt.
 
-### Are you providing any publicly available bridges to other services?
+### Bietet ihr öffentlich zugängliche Brücken (sog. Bridges) zu anderen Services an?
 
-We are not providing any bridges to other services. Since Matrix is a *federated* network, you are free to use bridges provided by other servers, provided these other services allow you to use them.
+Wir bieten keine Bridges zu anderen Services an. Da Matrix jedoch ein föderiertes Netzwerk ist, bist Du frei, die Bridges von Drittanbietern zu verwenden, sofern diese dies erlauben.

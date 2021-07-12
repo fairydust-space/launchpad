@@ -4,26 +4,26 @@ date: 2020-07-07T19:00:00Z
 draft: false
 ---
 
-## What we do to protect your privacy
+## Was wir unternehmen, um Deine Privatsphäre zu schützen
 
 ### Webserver logs
 
-In most cases we do not log anything.
-In `nginx` this means
+In den meisten Fällen wird nichts aufgezeichnet
+In `nginx` bedeutet das:
 
 ```nginx
 access_log off;
 ```
 
-In case we have to log more (for example for debugging), we only log errors (requests with a status code in the  [4xx or 5xx](https://http.cat/)) range.
+Wenn wir mehr aufzeichnen müssen (zum Beispiel zur Fehlerbehebung), zeichnen wir nur Fehlermeldungen auf (Anfragen mit Status Codes im Bereich von [4xx oder 5xx](https://http.cat/)).
 
-- timestamp
-- the request URL (so we know where the error occured)
-- the error code
-- user-agent (the type of browser/client used)
-- the encryption used (TLS cipher suite)
+- Zeitstempel
+- Die angefragte URL (damit wir wissen, wo der Fehler aufgetreten ist)
+- Der Fehlercode
+- User-agent (der verwendete Browser / Client)
+- Die verwendete Verschlüsselung (TLS cipher suite)
 
-This is the `nginx` log format we use for that:
+Dies ist das `nginx` Logging-Format, welches wir dafür verwenden
 
 ```nginx
 map $status $only_errors {
@@ -34,30 +34,30 @@ map $status $only_errors {
 log_format matrix '[$time_local] "$request" $status "$http_user_agent" "$ssl_protocol/$ssl_cipher"';
 ```
 
-### Referrer Policy
+### Referrer Strategie
 
-If you klick on a link to an external website your browser will usually send a `referer` header, to tell the destination site where you came from. (Yes, that typo is [actually in the spec](https://tools.ietf.org/html/rfc2616#section-14.36).) It's possible to instruct browsers not to do that, which is what we always do.
+Wenn Du auf einen Link zu einer externen Website klickst, sendet Dein Browser üblicherweise einen `referer` header, um der Zielseite mitzuteilen, woher Du gekommen bist. (Ja, dieser Schreibfehler ist [effektiv in der Spezifikation](https://tools.ietf.org/html/rfc2616#section-14.36).) Es ist möglich, den Browser zu instruieren, dies zu unterlassen. Dies handhaben wir jeweils so.
 
-In `nginx` we always send this response header:
+In `nginx` senden wir immer diesen Response Header:
 
 ```nginx
 Referrer-Policy: no-referrer
 ```
 
-This commands browsers not to send a `referer` header in any case when using our provided [Element/Web Instance](https://chat.fairydust.space/) or this website.
-This does *not* necessarily apply if you use a 3rd party hosted webchat client.
+Dies teilt dem Browser mit, den `referer` Header niemals zu senden, wenn unsere [Element/Web Instanz](https://chat.fairydust.space/) oder diese Website verwendet wird.
+Dies trifft *nicht* automatisch zu, wenn ein Webchat Client eines Drittanbieters genutzt wird.
 
-### Tor friendly
+### Tor-freundlich
 
-If you prefer [Tor Browser](https://www.torproject.org/download/) to use our website or chat, you're encouraged to do so. Likewise if you're using any Matrix client of your choice via Tor as a SOCKS proxy. Currently we do not (yet) provide an `.onion` service.
+Wenn Du den [Tor Browser](https://www.torproject.org/download/) bevorzugst, um unsere Website oder Chat zu nutzen - Nur zu! Das selbe gilt, wenn Du einen Matrix Client Deiner Wahl via Tor als SOCKS proxy verwendest. Momentan bieten wir (noch) keinen `.onion` Service an.
 
-### 3rd party web chats
+### Web-Chat Drittanbieter
 
-If you prefer to use a different chat webinterface than the one we provide, you're welcome to do so. We also support client autoconfiguration.
+Wenn Du einen Web-Chat Drittanbieter verwenden möchtest, ist dies ebenfalls kein Problem. Wir untersützen ausserdem die Client-Autokonfiguration.
 
 ### Federated Learning of Cohorts (FLoC) tracking
 
-We send a [Permissions-Policy Header](https://www.w3.org/TR/permissions-policy-1/) that instructs browsers to turn off [Federated Learning of Cohorts (FLoC)](https://github.com/WICG/floc#opting-out-of-computation).
+Wir senden einen [Permissions-Policy Header](https://www.w3.org/TR/permissions-policy-1/), der den Browser instruiert, [Federated Learning of Cohorts (FLoC)](https://github.com/WICG/floc#opting-out-of-computation) zu deaktivieren.
 
 ```
 Permissions-Policy: interest-cohort=()
