@@ -14,10 +14,7 @@ Du kannst uns [so erreichen]({{%relref "contact.md" %}}) und du findest uns auch
 Einen guten Flug wünscht,  
 deine fairydust.space crew &#x1F680;
 
-{{% notice warning %}}
-Im Moment findet leider eine weitgehender DDoS Attacke auf das Matrix Netzwerk statt. Dies kann leider zu Beeindrächtigungen führen.
-{{% /notice %}}
 
 {{% notice note %}}
-Außerdem ist die deutsche Übersetzung unserer Website noch in Bearbeitung, wenn du möchtest [kannst du uns dabei helfen](https://github.com/fairydust-space/launchpad).
+Die deutsche Übersetzung unserer Website ist noch in Bearbeitung, wenn du möchtest [kannst du uns dabei helfen](https://github.com/fairydust-space/launchpad).
 {{% /notice %}}

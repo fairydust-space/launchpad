@@ -14,7 +14,3 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
-{{% notice warning %}}
-At the moment there is an ongoing DDoS attack on the matrix network. Expect perfomance to be degraded.
-{{% /notice %}}
-
