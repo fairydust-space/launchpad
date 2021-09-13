@@ -14,3 +14,7 @@ See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" hr
 Happy travels,  
 your cabin crew &#x1F680;
 
+{{% notice info %}}
+Scheduled Maintenance: 2021-09-13, 15:00 - 17:00 UTC. (17:00-19:00 CEST)
+Please expect limited availability due to necessary restarts.
+{{% /notice %}}

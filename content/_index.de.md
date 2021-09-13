@@ -14,6 +14,10 @@ Du kannst uns [so erreichen]({{%relref "contact.md" %}}) und du findest uns auch
 Einen guten Flug wünscht,  
 deine fairydust.space crew &#x1F680;
 
+{{% notice info %}}
+Geplante Wartung: 2021-09-13, 17:00 - 19:00 MESZ. (15:00-17:00 UTC)
+Bitte rechne mit eingeschränkter Service Verfügbarkeit wegen notwendiger Neustarts.
+{{% /notice %}}
 
 {{% notice note %}}
 Die deutsche Übersetzung unserer Website ist noch in Bearbeitung, wenn du möchtest [kannst du uns dabei helfen](https://github.com/fairydust-space/launchpad).
