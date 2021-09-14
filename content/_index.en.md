@@ -13,8 +13,3 @@ Our flight path may still be a little rough, so we welcome your positive feedbac
 See our [contact page]({{%relref "contact.md" %}}) or find us on [<a rel="me" href="https://chaos.social/@fairydust_space">Mastodon</a>](https://chaos.social/@fairydust_space) if you want to reach out to us!  
 Happy travels,  
 your cabin crew &#x1F680;
-
-{{% notice info %}}
-Scheduled Maintenance: 2021-09-13, 15:00 - 17:00 UTC. (17:00-19:00 CEST)
-Please expect limited availability due to necessary restarts.
-{{% /notice %}}
