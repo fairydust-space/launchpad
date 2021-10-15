@@ -58,7 +58,6 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 - SEPA transfer: ask [fredl](https://matrix.to/#/@fredl:fairydust.space) for his bank details (IBAN)
 - [Liberapay: Fairydust.space](https://liberapay.com/fairydust.space/)
-- Bitcoin: [bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j](bitcoin:bc1qczxrvux4gm2dh8m37t8e6n65z5c0k6eq6egr7j)
 
 ### donations total
 - by 2021-05-31: EUR 905,06
