@@ -4,69 +4,69 @@ date: 2020-07-23T13:00:00Z
 draft: false
 ---
 
-## general information
+## Generelle Info
 
-- owner: [fredl](https://matrix.to/#/@fredl:fairydust.space)
-- payer: [fredl](https://matrix.to/#/@fredl:fairydust.space)
-- Subdomains: [pascoda.fairydust.space](https://pascoda.fairydust.space/) (as blog) and [files.fairydust.space](https://files.fairydust.space/) are being used independently from the matrix/synapse project [fairydust.space](https://fairydust.space)
+- Besitzer: [fredl](https://matrix.to/#/@fredl:fairydust.space)
+- Kostenträger: [fredl](https://matrix.to/#/@fredl:fairydust.space)
+- Subdomains: [pascoda.fairydust.space](https://pascoda.fairydust.space/) (als Blog) und [files.fairydust.space](https://files.fairydust.space/) werden unabhängig vom Matrix/Synapse Projekt verwendet. [fairydust.space](https://fairydust.space)
 
-## domain expenses
+## Domain-Kosten
 
 ### Easyname
 
-- 2019-03-12 - 2020-03-13: EUR 22,90 (invoice dated 2019-02-03)
-- 2018-03-12 - 2019-03.13: EUR 11,90 (invoice dated 2018-01-29)
-- 2017-03-12 - 2018-03.13: unknown
+- 2019-03-12 - 2020-03-13: EUR 22,90 (Rechnungsdatum 2019-02-03)
+- 2018-03-12 - 2019-03.13: EUR 11,90 (Rechnungsdatum 2018-01-29)
+- 2017-03-12 - 2018-03.13: unbekannt
 
 ### Gandi.net
 
-- 2021-01-17 - 2022-03-21: EUR 29,76 (invoice dated 2021-01-17)
-- 2020-01-07 - 2021-03-21: EUR 00,00 (invoice dated 2020-01-07, support goodwill)
+- 2021-01-17 - 2022-03-21: EUR 29,76 (Rechnungsdatum 2021-01-17)
+- 2020-01-07 - 2021-03-21: EUR 00,00 (Rechnungsdatum 2020-01-07, support goodwill)
 
 ### domain total
 
-- by 2020-02-04: EUR 29,76
+- am 2020-02-04: EUR 29,76
 
-## server expenses
+## Server-Kosten
 
 ### Hetzner
 
-- one-off setup: EUR 46,80 (invoice dated 2020-02-18)
-- recurring monthly: EUR 46,80
+- Einmalige Installation: EUR 46,80 (Rechnungsdatum 2020-02-18)
+- Monatlich: EUR 46,80
 
-### server total
+### Server total
 
-- by 2021-05-20: EUR 795,60
+- am 2021-05-20: EUR 795,60
 
-## expenses total
+## Auslagen total
 
-(private usage of domain 2017-2019 deducted)
+(abzüglich der privaten Verwendung der Domain von 2017-2019)
 
-- by 2021-05-20: EUR 825,36
+- am 2021-05-20: EUR 825,36
 
-## balance
+## Bilanz
 
-- by 2021-05-31: EUR 79,70
+- am 2021-05-31: EUR 79,70
 
-## donations
+## Spenden
 
-Donations by natural persons will be displayed as 'anonymous' unless the donor wants their name and/or nickname displayed. In that case, please let us know what name we should list here.
+Spenden von natürlichen Personen werden als 'anonym' gelistet, es sei denn der Spender möchte seinen Namen und/oder Nickname bekannt geben. In diesem Falle lass uns bitte wissen, welchen Namen wir auflisten sollen.
 
-Donations by legal entities (companies, organisations, etc.) will by default be published with the organisation's name.
+Spenden von juristischen Personen (Firmen, Organisationen, etc.) werden standardmässig mit dem Namen der Organisation gelistet.
 
-### How to donate
+### Spenden - Wie?
 
-- SEPA transfer: ask [fredl](https://matrix.to/#/@fredl:fairydust.space) for his bank details (IBAN)
+- SEPA Überweisung: frage [fredl](https://matrix.to/#/@fredl:fairydust.space) nach seinen Bankangaben (IBAN)
 - [Liberapay: Fairydust.space](https://liberapay.com/fairydust.space/)
 
-### donations total
-- by 2021-05-31: EUR 905,06
+### Spenden total
+- am 2021-05-31: EUR 905,06
 
-### donations history / hall of fluff
+### Spendenverlauf
 
 #### 2021
 
-| Amount  |       2021 |     by    |
+| Betrag  |       2021 |     von    |
 | ---:    |     -----: |     :--:  |
 | 08,00 € | 2021-05-31 | Kay       |
 | 08,00 € | 2021-04-30 | Kay       |
@@ -84,7 +84,7 @@ Donations by legal entities (companies, organisations, etc.) will by default be 
 
 #### 2020
 
-| Amount  |       2020 |     by    |
+| Betrag  |       2020 |     von    |
 | ---:    |     -----: |     :--:  |
 | 18,97 € | 2020-12-14 | anonymous |
 | 50,00 € | 2020-12-09 | MacLemon |
