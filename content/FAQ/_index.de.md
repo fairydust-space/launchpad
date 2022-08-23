@@ -69,7 +69,7 @@ No, this hardware is using a proprietary BIOS by “American Megatrends Inc.” 
 
 #### Matrix Server, Webservices
 
-Germany, Europe (EU)
+Finland, Europe (EU)
 
 #### Mail Server
 
